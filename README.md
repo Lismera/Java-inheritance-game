@@ -24,4 +24,4 @@ javac Game.java
 java Game
 ```
 
-After this, just enjoy playing!# Java-inheritance-game
+After this, just enjoy playing!
